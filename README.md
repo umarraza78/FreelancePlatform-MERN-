@@ -1,4 +1,4 @@
-# Complete Freelance Platform
+# Freelancing Platform(Full Stack Development)
 
 A full-stack web application that connects freelancers with clients, facilitating project creation, bidding, collaboration, and secure payments.
 
